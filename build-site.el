@@ -2,14 +2,25 @@
 ;; ~/.emacs.d/elpa path.
 (require 'package)
 (setq package-user-dir (expand-file-name "./.packages"))
-(setq package-archives '(("melpa" . "https://melpa.org/packages/")
-                         ("elpa" . "https://elpa.gnu.org/packages/")))
+
+(setq package-archives '(
+			 ;; ("melpa" . "https://melpa.org/packages/")
+			 ;; ("org" . "https://orgmode.org/elpa/")
+			 ;; ("elpa" . "https://elpa.gnu.org/packages/")
+			 ;; Tsinghua mirror
+			 ("gnu"   . "http://elpa.emacs-china.org/gnu/")
+			 ("melpa" . "http://elpa.emacs-china.org/melpa/")
+			 ("org" . "http://elpa.emacs-china.org/org/")
+			 ))
+
 
 ;; Initialize the package system
 (package-initialize)
 (unless package-archive-contents
   (package-refresh-contents))
 
+;; (package-install 'use-package)
+;; (require 'use-package)
 ;; Install dependencies
 (package-install 'htmlize)
 
