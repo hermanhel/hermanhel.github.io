@@ -11,7 +11,7 @@
 			 ;; ("gnu"   . "http://elpa.emacs-china.org/gnu/")
 			 ;; ("melpa" . "http://elpa.emacs-china.org/melpa/")
 			 ;; ("org" . "http://elpa.emacs-china.org/org/")
-			 ;; ))
+			 ))
 
 
 ;; Initialize the package system
