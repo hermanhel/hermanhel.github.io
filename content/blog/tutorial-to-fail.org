@@ -1,0 +1,8 @@
+* Tutorial to fail
+This tutorial is a continuous process journaling on failures I encountered personally, my reflections on them, and my strategies to/not to get over them. Some of them might even don't have existing proved way to get over.
+
+You can use this tutorial as a checklist, to see if you have the same cause of failure I do/did.
+
+You can also experiment my strategies to see if they work for you.
+
+If you do, or have similar strategies, or have similar problems which you treat with different strategies, I'd be more than pleased to recieve mails about them. 

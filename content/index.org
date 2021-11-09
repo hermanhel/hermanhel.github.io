@@ -6,5 +6,6 @@ This site is to hold some blogs.
 Maybe more in the future.
 
 
-
+* Tutorials
+[[./blog/tutorial-to-fail.org][Tutorial to fail]]
 
