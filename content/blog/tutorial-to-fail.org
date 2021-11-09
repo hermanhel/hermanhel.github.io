@@ -1,4 +1,4 @@
-* Tutorial to fail
+#+title: Tutorial to fail
 This tutorial is a continuous process journaling on failures I encountered personally, my reflections on them, and my strategies to/not to get over them. Some of them might even don't have existing proved way to get over.
 
 You can use this tutorial as a checklist, to see if you have the same cause of failure I do/did.
@@ -6,3 +6,52 @@ You can use this tutorial as a checklist, to see if you have the same cause of f
 You can also experiment my strategies to see if they work for you.
 
 If you do, or have similar strategies, or have similar problems which you treat with different strategies, I'd be more than pleased to recieve mails about them. 
+* Moral blinder
+I have characteristics which are considered immoral by tradition implicitly. With my common sence converging to local traditions, acknowledging them brings about sense of humiliation, stronger when the judge is someone else.
+
+Therefore, I implicitly choose not to acknowledge them, which resulted in low self-esteem and strong identity needs from outside. Low self-esteem for I know my immorality, identity need for I need someone else telling me that I'm good to cover my immorality.
+
+With such blinder, I can't understand reality very well, but only traditionally ideal senario local culture and I set for myself. This leads to many unwise decision.
+
+Such decision take place mostly in improvisation, with no consciousness of stated principles and strategies, and my natural default beliefs are like, "I'm a genius", "I'm almighty", "I'll control everything." such.
+** Example Scene
+*** 2021-11-04 Solution session.
+It was a session conducting solution list from privious work of 5 step process. The work in that session is translating a long list of Machine modifications into TODO tasks.
+
+By default, I assume that I will be patient and quick about it, while completely focused and always clear with tons of knowledge and idea of how things should be done. I set a time limit of 30 minutes.
+
+By reality, my patient fades very quick, and there's no proof my speed in this tasks, as I'm doing it the first time. My focus could be distracted and actually is distracted by LOL. My knowledge is limited, so are my ideas on how things should be done, so is not for my time. I spent more than 2 hour on the list, without finishing it, and the last few items are very brief, in great contrast of my plan in machine modification.
+
+I ended up exhausted, with a not so good TODO list, and began to resist this whole idea of executing neither my solutions nor the 5 step process, because it seems unpleasent for me and was revealing my weaknesses.
+** Solution
+In emacs, when default behavior became not prefered, the default value of variable could be changed, or the variable could be given new value on startup or other conditions.
+
+In the [[Moral Blinder]] situation, if the beliefs used in decision making could be seen as variables, similar approach could be applied: Change Reality/Moral standard, or use stated principle before every session.
+*** Change Reality/Moral standard
+On one thing humans behave different than emacs: the variable doesn't change immediately after you wrote that you change it.
+
+You could wrote a whole scheme of changing the reality-your nature or your condition-but the change won't come immediately after you worte the scheme, nor during the scheme, nor even after the scheme was finished. You may need to modify your scheme, or have a bunch of schemes to have a reality or moral standard changed.
+
+The change of reality or moral standard, everything have anything to do with human, comes slower and in a continuous manner.
+
+I maybe could prove this using some "pool of decision selection based on memory xyz" theories with neuralscience skills. I'll leave the area blank till then.  
+*** Stated principle
+While the default nature is hard to alter, human can easily follow clear stated principle/strategy/guideline in a short session.
+
+The usage of stated principle is simple:
+1. have lists of principle/strategy/guideline for differen tasks.
+2. Before doing a particular type of tasks, state the principle/strategy/guidelines, and refer to it when doing things.
+
+Variables could be taken in to consideration are:
++ Length of list
+  if too long, stating principle could be too time consuming and therefore ineffient.
+  if too short, the principles could be not enough to do the work, and therefore ineffective.
+  + Could apply priority
+    the most important principle/strategy/guidelines get stated, and others just a skim
+  + Could apply spaced exposure
+    cycle the stated principle/strategy/guidelines to make them more natural in certain scenario
++ Length of session
+  stated principles get forgotten after a period of time.
+  The length of session should be long enough to do the work and short enough for people to keep counscious for the stated principles and memory of them.
+
+Moreover, stated principles alter people's behavior in sessions, therefore could act as a way to gradually alter people's nature in [[*Change Reality/Moral standard][Change Reality/Moral standard]]
