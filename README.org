@@ -1,5 +1,7 @@
-#+title: Org Website Example
+#+title: Herman's Place
+* Credit
+This repo is originally forked from System Crafters' tutorial [[https://systemcrafters.net/publishing-websites-with-org-mode/][Publishing Websites with Org Mode]]  on how to make websites using Org-mode within Emacs.
 
-This repo is an example of how you can build and publish a website with [[https://orgmode.org][Org Mode]].
-
-Check out the [[https://systemcrafters.net/publishing-websites-with-org-mode/][Publishing Websites with Org Mode]] series to learn how this was created!
+Check out the link above to learn how this was created. 
+* Herman's Place
+This repo holds the source code of website [[https://hermanhel.github.io][Herman's Place]], and build the website as new commit are pushed to the remote repo.
