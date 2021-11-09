@@ -26,7 +26,7 @@ I ended up exhausted, with a not so good TODO list, and began to resist this who
 ** Solution
 In emacs, when default behavior became not prefered, the default value of variable could be changed, or the variable could be given new value on startup or other conditions.
 
-In the [[Moral Blinder]] situation, if the beliefs used in decision making could be seen as variables, similar approach could be applied: Change Reality/Moral standard, or use stated principle before every session.
+In the [[Moral blinder]] situation, if the beliefs used in decision making could be seen as variables, similar approach could be applied: Change Reality/Moral standard, or use stated principle before every session.
 *** Change Reality/Moral standard
 On one thing humans behave different than emacs: the variable doesn't change immediately after you wrote that you change it.
 
