@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Assembly Programming</title>
+<meta name="generator" content="Org mode" />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<h1 class="title">Assembly Programming</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org96f6f2a">Origin</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org96f6f2a" class="outline-2">
+<h2 id="org96f6f2a">Origin</h2>
+<div class="outline-text-2" id="text-org96f6f2a">
+<p>
+I started learning assembly programming because it is required by my CPT101 module Y2S1 XJTLU
+</p>
+
+<p>
+The concepts are simple to me, but as it going to practice, I was covered in compiling errors, mostly from something to do with C.
+</p>
+
+<p>
+I started by writing exactly same syntax of C inline assembly tought in lecture and trying to compile with <code>gcc</code> on my macOS machine.
+</p>
+
+<div class="org-src-container">
+<pre class="src src-c"><span style="font-weight: bold; font-style: italic;">//    </span><span style="font-weight: bold; font-style: italic;">something like this</span>
+msg = <span style="font-style: italic;">"hello"</span>; 
+_asm{
+  <span style="font-weight: bold; text-decoration: underline;">lea</span> <span style="font-weight: bold; font-style: italic;">eax</span>, <span style="font-weight: bold; font-style: italic;">msg</span>
+    }
+</pre>
+</div>
+
+<p>
+However, errors like <code>_asm</code> not being recognized are threw. I checked online inline assembly syntax, finding some strange names liek "AT&amp;T syntax" and "Intel syntax". Some posts on Stackoverflow brings about that the syntax of <code>gcc</code> and <code>clang</code>, which are the C compilers I'm using, is different from that <code>MSVC</code>, which my teacher is using, and that <code>gcc</code> can't recognize <code>MSVC</code> syntax of inline assembly.
+</p>
+
+<p>
+I checked <code>man clang</code>, finding a option to support "some popular MSVC syntax", indicating that there are some syntax still not supported, which I thought might just echo to that.
+</p>
+
+<p>
+The solution is clear then: I could just model my teacher's setup, use a MS Windows system and MSVC inside it, which could be achieved by virtual box or windows to go; or write standalone assembly program on macOS or Linux in virtual box or via ssh.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)</p>
+<p class="validation"></p>
+</div>
+</body>
+</html>
