@@ -3,7 +3,7 @@ This is a tutorial for myself. I started the tutorial as a newbie of jazz piano 
 
 The material is limited to a 32-key MIDI controller and a computer, as perfect much as what I have got.
 
-I divided the how [[id:32570108-B834-48D2-B439-187626176C73][Jazz Piano machine]] mainly into harmony, melody and rhythm.
+I divided the whole jazz piano machine mainly into harmony, melody and rhythm.
 
 This is not a start-from-scratch tutorial, the kind I usually recommand, but rather a index of drills I collected from various of resources. In this paradigm, the 3 aspects below are the base class/categories of elements one should consider in a jazz piano playing session. They can also be seen as attributes of charactor in RPG like DEF, ATK, or AGI, whereas practicing the drills would increase the value of the attributes.
 * Harmony
