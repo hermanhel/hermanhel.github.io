@@ -1,0 +1,27 @@
+#+title:Assembly Programming
+* Origin
+I started learning assembly programming because it is required by my CPT101 module Y2S1 XJTLU
+
+The concepts are simple to me, but as it going to practice, I was covered in compiling errors, mostly from something to do with C.
+#+begin_comment
+on a linux machine, syscall works out fine, printf keeps throw error.
+#+end_comment
+
+I started by writing exactly same syntax of C inline assembly tought in lecture and trying to compile with ~gcc~ on my macOS machine.
+
+#+begin_src c
+  //    something like this
+  msg = "hello"; 
+  _asm{
+    lea eax, msg
+      }
+#+end_src
+
+However, errors like ~_asm~ not being recognized are threw. I checked online inline assembly syntax, finding some strange names liek "AT&T syntax" and "Intel syntax". Some posts on Stackoverflow brings about that the syntax of ~gcc~ and ~clang~, which are the C compilers I'm using, is different from that ~MSVC~, which my teacher is using, and that ~gcc~ can't recognize ~MSVC~ syntax of inline assembly.
+
+I checked ~man clang~, finding a option to support "some popular MSVC syntax", indicating that there are some syntax still not supported, which I thought might just echo to that.
+
+The solution is clear then: I could just model my teacher's setup, use a MS Windows system and MSVC inside it, which could be achieved by virtual box or windows to go; or write standalone assembly program on macOS or Linux in virtual box or via ssh.
+
+
+

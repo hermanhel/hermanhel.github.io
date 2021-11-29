@@ -8,4 +8,7 @@ Maybe more in the future.
 
 * Tutorials
 [[./blog/tutorial-to-fail.org][Tutorial to fail]]
-
+[[file:blog/assembly-programming.org][Assembly programming]]
+[[file:blog/Jazz_piano.org][Jazz piano]]
+[[file:blog/Status_update.org][Status update]]
+[[file:blog/Neuroscience.org][Approaching Neuroscience]]
