@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Clojure tutorial</title>
+<meta name="generator" content="Org mode" />
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<h1 class="title">Clojure tutorial</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org03a4abb">Walkthrough</a>
+<ul>
+<li><a href="#orgcc4c6a2">Tutorial</a>
+<ul>
+<li><a href="#orgbbd994c">Official website</a></li>
+<li><a href="#org757b5b2">Setting up cider and failure</a></li>
+<li><a href="#org4405dbe">Cookbook</a></li>
+</ul>
+</li>
+<li><a href="#org489343c">Environment</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org03a4abb" class="outline-2">
+<h2 id="org03a4abb">Walkthrough</h2>
+<div class="outline-text-2" id="text-org03a4abb">
+</div>
+<div id="outline-container-orgcc4c6a2" class="outline-3">
+<h3 id="orgcc4c6a2">Tutorial</h3>
+<div class="outline-text-3" id="text-orgcc4c6a2">
+</div>
+<div id="outline-container-orgbbd994c" class="outline-4">
+<h4 id="orgbbd994c">Official website</h4>
+<div class="outline-text-4" id="text-orgbbd994c">
+<p>
+I first checked  <a href="https://clojure.org/guides/getting_started">offical clojure website</a>, in search of download, tutorials and doc. I followed the install instruction step by step and went through the tutorials.
+</p>
+
+<p>
+Then I checked several websites mentioned in <a href="https://clojure.org/guides/learn/flow">the control flow part</a> of the tutorial.
+</p>
+</div>
+</div>
+<div id="outline-container-org757b5b2" class="outline-4">
+<h4 id="org757b5b2">Setting up cider and failure</h4>
+<div class="outline-text-4" id="text-org757b5b2">
+<p>
+The next thing I wanted to do is to set myself up for CIDER in Emacs. And the I met the first obstacle: it won't work. Both jack-in-clj in Emacs and <code>lein</code> in termianl would end up java reporting compile issue, missing class file in class path and so on. I checked the error information in DuckDuckGo, several guys have same issue, but no real solutions. I tried some solutions, including reinstalling everything, editing <code>~/.lein/profile.clj</code>, <code>~/.lein/project.clj/</code>, filling <code>~/.m2/cider/</code> with source files from github repo <code>/src</code> folder, none worked. The issue went away after I restarted the computer.
+</p>
+
+<p>
+So if you have similar issue, I would suggest restart your computer.
+</p>
+</div>
+</div>
+<div id="outline-container-org4405dbe" class="outline-4">
+<h4 id="org4405dbe">Cookbook</h4>
+<div class="outline-text-4" id="text-org4405dbe">
+<p>
+Next thing I did is visit github.com and search keyword "clojure", in search of tutorial/sample repo, popular library, and other thing other clojure programmers cared about(the high star repos), where I accidentally discovered clojurescript(this stuff compiles to js! cool!), and this amazing repo <a href="https://github.com/clojure-cookbook/clojure-cookbook">clojure-cookbook</a>. It's like everything I want put together
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org489343c" class="outline-3">
+<h3 id="org489343c">Environment</h3>
+<div class="outline-text-3" id="text-org489343c">
+<p>
+I first installed clojure, I forgot exactly how, I got 
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)</p>
+<p class="validation"></p>
+</div>
+</body>
+</html>
