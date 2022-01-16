@@ -1,0 +1,18 @@
+#+title: Clojure tutorial
+
+* Walkthrough
+
+** Tutorial
+*** Official website
+I first checked  [[https://clojure.org/guides/getting_started][offical clojure website]], in search of download, tutorials and doc. I followed the install instruction step by step and went through the tutorials.
+
+Then I checked several websites mentioned in [[https://clojure.org/guides/learn/flow][the control flow part]] of the tutorial.
+*** Setting up cider and failure
+The next thing I wanted to do is to set myself up for CIDER in Emacs. And the I met the first obstacle: it won't work. Both jack-in-clj in Emacs and =lein= in termianl would end up java reporting compile issue, missing class file in class path and so on. I checked the error information in DuckDuckGo, several guys have same issue, but no real solutions. I tried some solutions, including reinstalling everything, editing =~/.lein/profile.clj=, =~/.lein/project.clj/=, filling =~/.m2/cider/= with source files from github repo =/src= folder, none worked. The issue went away after I restarted the computer.
+
+So if you have similar issue, I would suggest restart your computer.
+*** Cookbook
+Next thing I did is visit github.com and search keyword "clojure", in search of tutorial/sample repo, popular library, and other thing other clojure programmers cared about(the high star repos), where I accidentally discovered clojurescript(this stuff compiles to js! cool!), and this amazing repo [[https://github.com/clojure-cookbook/clojure-cookbook][clojure-cookbook]]. It's like everything I want put together
+
+** Environment
+I first installed clojure, I forgot exactly how, I got 
