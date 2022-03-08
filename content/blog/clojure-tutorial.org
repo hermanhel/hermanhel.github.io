@@ -37,7 +37,7 @@ Here is a simple conclusion:
       + [[https://github.com/gigasquid/wonderland-clojure-katas][Clojure Katas]]
       + [[http://www.parens-of-the-dead.com/][Parens of the Dead]] seems to be one, too. But I haven't checked that much
     + [[https://projecteuler.net][ProjectEuler]] is one wonderful place to find interesting quesiton to tackle and various solution in various languages. I kind of use it as the main source of problem. If anyone like, you can add me friend with my friend key =1922849_zCWlKk762mMOWAWnMpDwpsJ4qKwN1AJU=. We can compete who's doing the faster!
-+ [[braveclojure.com][Clojure for the brave and true]] is mentioned and recommended in various places, commended as a very good starting place for people with no prior /serious programming/ experiance, and I agreed with them.
++ [[https://braveclojure.com][Clojure for the brave and true]] is mentioned and recommended in various places, commended as a very good starting place for people with no prior /serious programming/ experiance, and I agreed with them.
   It is now my main material, and it's written in a humorous yet very informational way. The unnecessary fantasy jargons have made the passages shorter, and more comprehensive, compared to most tutorials and books I've found.
   It's an useful useful funny funny book, and I recommand anyone to read it, even as jokes! I found it an appropriate materail for practice speed reading.
   Surpricingly, the 2nd chapter of this book is also the most friendly Emacs tutorial I have read!
@@ -53,5 +53,5 @@ Here is a simple conclusion:
   + /Rich Hickey/ and /Stuart Halloway/'s talks are recommanded in various places and easy too find. I watched /Rich Hickey/'s /Are we there yet/, this man truely have very brilliant insights, and knows how to share them with others. I was striked with the word /timeless/.
 
 ** Clojure for the brave and true
-I then set out reading /Clojure for the brave and true/. It's free on the website, [[braveclojure.com][braveclojure.com]]. The comprehensive and informational, concrete writing style allows fast and enjoyable reading experiance, and the questions are real valid questions.
+I then set out reading /Clojure for the brave and true/. It's free on the website, [[https://braveclojure.com][braveclojure.com]]. The comprehensive and informational, concrete writing style allows fast and enjoyable reading experiance, and the questions are real valid questions.
 
