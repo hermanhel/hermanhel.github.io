@@ -1,5 +1,7 @@
+
 ;; Set the package installation directory so that packages aren't stored in the
 ;; ~/.emacs.d/elpa path.
+;;; Code:
 (require 'package)
 (setq package-user-dir (expand-file-name "./.packages"))
 
