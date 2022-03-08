@@ -47,7 +47,7 @@ Here is a simple conclusion:
   + /Clojure Programming/ and /Programming Clojure/ and /the joy of clojure/ are always mentioned in a row. Seems pretty much people own them as a combination.
 + Blogs/Online Tutorials
   + [[https://kimh.github.io/clojure-by-example/#about-this-page][clojure by example]] seems to have a good reputation. it is said to be easy to get on with.
-  + [[clojuredoc.org][clojuredocs]] seems to be a popular choice of doc reference site
+  + [[https://clojuredoc.org][clojuredocs]] seems to be a popular choice of doc reference site
   + [[http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html][functional programming in clojure]] was mentioned for times
   + [[https://stuartsierra.com/][Stuart Sierra's Blog]] have some insights too.
   + /Rich Hickey/ and /Stuart Halloway/'s talks are recommanded in various places and easy too find. I watched /Rich Hickey/'s /Are we there yet/, this man truely have very brilliant insights, and knows how to share them with others. I was striked with the word /timeless/.
