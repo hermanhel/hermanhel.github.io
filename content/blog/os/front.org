@@ -1,0 +1,13 @@
+Here I record my literature on the topic *Operating System*.
+
+1. [[file:process.org][Process]]
+   Process is the heart of everything.
+
+   Operating system do 1 thing and 1 thing only, =manageing the processes=.
+
+   This post talk about:
+   + =jargons= about processes
+
+   + Some categories/aspects we used to find important.
+
+   + blah blah blah.

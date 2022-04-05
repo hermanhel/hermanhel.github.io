@@ -1,0 +1,2 @@
+* What is what?
+Process is - program loaded into memory.

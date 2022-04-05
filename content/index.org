@@ -19,3 +19,4 @@ Maybe more in the future.
 
 [[file:blog/clojure-tutorial.org][Clojure Tutorial]]
 
+[[file:blog/os/front.org][Operating System]]
