@@ -5,7 +5,7 @@ This site is to hold some blogs.
 
 Maybe more in the future.
 
-
+[[https://hermanhel.github.io/braindump/][braindump]] here
 * Tutorials
 [[./blog/tutorial-to-fail.org][Tutorial to fail]]
 
