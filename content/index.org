@@ -5,7 +5,7 @@ This page holds my academic resume along with some blogs.
 
 * About me
 #+begin_center
-[[file:./content/result.jpg]]
+[[file:./media/headshot.jpg]]
 #+end_center
 + Current status ::
 I'm currently an undergraduate student persueing [[https://www.liverpool.ac.uk/courses/2023/computer-science-bsc-hons][BSc Computer Science]] in [[https://www.liverpool.ac.uk/courses/2023/computer-science-bsc-hons][University of Liverpool]]. 
