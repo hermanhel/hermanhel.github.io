@@ -52,4 +52,7 @@
 ;; Generate the site output
 (org-publish-all t)
 
+;; Copy all the medias
+(shell-command "cp -r ./content/media ./public/media ")
+
 (message "Build complete!")
