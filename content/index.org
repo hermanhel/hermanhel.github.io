@@ -1,22 +1,11 @@
-#+title: Herman's Place
+#+title: Linfeng He
+Last update: 2023-08-29T17:17:55+01:00
+* Welcome, stranger!
+This page holds my academic resume along with some blogs.
 
-* Welcome
-This site is to hold some blogs.
-
-Maybe more in the future.
-
-[[https://hermanhel.github.io/braindump/][braindump]] here
-* Tutorials
-[[./blog/tutorial-to-fail.org][Tutorial to fail]]
-
-[[file:blog/assembly-programming.org][Assembly programming]]
-
-[[file:blog/Jazz_piano.org][Jazz piano]]
-
-[[file:blog/Status_update.org][Status update]]
-
-[[file:blog/Neuroscience.org][Approaching Neuroscience]]
-
-[[file:blog/clojure-tutorial.org][Clojure Tutorial]]
-
-[[file:blog/os/front.org][Operating System]]
+* About me
+#+begin_center
+[[./result.jpg]]
+#+end_center
++ Current status ::
+I'm currently an undergraduate student persueing [[https://www.liverpool.ac.uk/courses/2023/computer-science-bsc-hons][BSc Computer Science]] in [[https://www.liverpool.ac.uk/courses/2023/computer-science-bsc-hons][University of Liverpool]]. 
